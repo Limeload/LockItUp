@@ -18,7 +18,7 @@ This is a command-line interface (CLI) password manager written in Ruby. It allo
 
 2. Navigate to the project directory:
 
-`cd password_manager_cli`
+`cd LockItUp`
 
 3. Install dependencies:
 
