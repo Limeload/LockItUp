@@ -1,6 +1,7 @@
 require 'minitest/autorun'
+require_relative '../lib/password_manager'
 
-class PasswordManagerTest < MiniTest::Test
+class PasswordManagerTest < Minitest::Test
   def setup
     @password_manager = PasswordManager.new("master_password")
   end

@@ -36,4 +36,4 @@ This is a command-line interface (CLI) password manager written in Ruby. It allo
 
 To run tests, execute the following command:
 
-`ruby -Itest tests/password_manager_test.rb`
+`ruby tests/password_manager_test.rb`
